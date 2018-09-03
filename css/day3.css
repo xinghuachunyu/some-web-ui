@@ -1,0 +1,66 @@
+.header{
+	width: 1003px;
+	height: 78px;
+	background: url(../img/head_bg.jpg) repeat-x;
+	margin: 0 auto;
+}
+.header .menu{
+	float: right;
+	margin: 0px,auto;
+}
+.header .menu li{
+	float: left;
+	height: 78px;
+	width: 90px;
+	line-height:78px ;
+	text-align: center;
+	background: url(../img/menu_bg.jpg) no-repeat;
+}
+.header .menu li a{
+	display: block;
+}
+.menu li a:hover{
+	color:white;
+	background-color: #444;
+}
+.content{
+	width: 1003px;
+	height: 464px;
+	margin: 0 auto;
+	
+}
+.content .artical p{
+	width: 678px;
+	line-height: 30px;
+	font-size: 14px;
+	text-indent: 28px;
+	display: block;
+	float: left;
+}
+.content .artical img{
+	width: 678px;
+	display: block;
+	float: left;
+}
+.content img{
+	display: block;
+}
+.content .age{
+	width: 320px;
+	height:464px ;
+	margin: 0 auto;
+}
+.footer{
+	width: 1003px;
+	height: 78px;
+	border-top:1px solid gray;
+	margin: 0 auto;
+	
+}
+.footer p{
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+	font-size: 12px;
+}
+	

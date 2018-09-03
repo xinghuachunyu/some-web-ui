@@ -1,0 +1,46 @@
+/*
+* @Author: name
+* @Date:   2018-07-10 14:06:31
+* @Last Modified by:   name
+* @Last Modified time: 2018-07-10 17:24:34
+*/
+body{
+    background-color: white;
+    width:100%;
+}
+.gameBox{
+    width:200px;
+    height: 300px;
+    margin: 0 auto;
+    border: 1px black solid;
+}
+.top{
+    width:200px;
+    height:50px
+};
+.top_left{
+    float: left;
+    line-height: 50px;
+}
+.top_right{
+    float: right;
+    line-height:30px;
+}
+.center{
+    width:200px;
+    height:200px;
+}
+.center span{
+    line-height:200px;
+    font-size: 100px;
+    font-weight: bolder;
+    text-align: center;
+    cursor: default;
+}
+.bottom{
+    width:200px;
+    height:50px;
+}
+.bottom span{
+    line-height:50px;
+}
